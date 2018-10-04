@@ -40,7 +40,7 @@ public class FahrenheitCelsius {
         System.out.println(y);
 
     }
-    
+
 
 
 }
